@@ -1,9 +1,6 @@
 # golang-restapi-with-token
 
-get token from BNI
 ![alt text](https://i.ibb.co/PjsVvPP/token-bni.png)
-
-get token for merchant
 ![alt text](https://i.ibb.co/RCfGg1K/get-token-merchant.png)
 
 *notes
